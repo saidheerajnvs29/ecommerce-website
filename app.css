@@ -1,0 +1,9 @@
+#head1{
+	font-size:20px;
+	position:absolute;
+	left:50px;
+	font-family:times;
+}
+div.modal div.modal-backdrop {
+    z-index: 0;
+}
